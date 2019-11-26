@@ -1,8 +1,18 @@
-# raspberry
-Some nice project for the Raspberry Pi series.
+# Mellisa Tech Raspberry Libary
+Welcome to MellisaTech,
 
-## Mellisa Tech Raspberry Libary
+I'm Yarpii and im behind MellisaTech.
+Here u will find some scripts i use and like to have on one location without searching the internet over and over.
 
+So now i will write the libary i will use and like to share with others because u never know right.
+
+Includes:
+1. easy .sh scripts to run
+2. easy tutorials if to lazy to do manually
+3. bla bla bla
+
+
+### How To Download:
 
 1. Let's be sure u have git installed if not install it.
     ```bash
