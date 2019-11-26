@@ -1,6 +1,6 @@
 ### Simple + Firmware  update:
 
-1. Well here are soem command are best to use for updating your delicious pi
+1. Well here are some command are best to use for updating your delicious pi
     ```bash
     sudo apt-get install rpi-update
     ```
